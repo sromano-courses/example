@@ -1,2 +1,2 @@
 # EXAMPLE
-This is example
+This is example for the E.S. course.
