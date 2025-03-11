@@ -1,2 +1,2 @@
 # EXAMPLE
-This is an example
+This is an example of README.
